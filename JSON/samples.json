@@ -1,31 +1,31 @@
 [
   {
     "name": "symbol",
-    "file": "samples/Users/averykendrick/Downloads/717781__marvin_chiriguaya__symbol.wav",
+    "file": "samples/717781__marvin_chiriguaya__symbol.wav",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "trap",
-    "file": "samples/Users/averykendrick/Downloads/713223__jghoffman418__trap3-140bpm-amin.wav",
+    "file": "samples/713223__jghoffman418__trap3-140bpm-amin.wav",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "clock",
-    "file": "samples/Users/averykendrick/Downloads/723213__kvv_audio__clocktick_the-ticking-of-watch-movements-mono-01_kvv-audio_free.wav",
+    "file": "samples/723213__kvv_audio__clocktick_the-ticking-of-watch-movements-mono-01_kvv-audio_free.wav",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "book",
-    "file": "samples/Users/averykendrick/Downloads/723370__llupo2__book-flip.wav",
+    "file": "samples/723370__llupo2__book-flip.wav",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "drink",
-    "file": "samples/Users/averykendrick/Downloads/723382__llupo2__pouring-drinks.wav",
+    "file": "samples/723382__llupo2__pouring-drinks.wav",
     "bpm": "120",
     "loop": "1m"
   }
