@@ -1,0 +1,22 @@
+[
+  {
+    "name": "kick",
+    "pitch": "A#3",
+    "pattern": "1020"
+  },
+  {
+    "name": "snare",
+    "pitch": "B3",
+    "pattern": "100"
+  },
+  {
+    "name": "cymbal",
+    "pitch": "E4",
+    "pattern": "1000"
+  },
+  {
+    "name": "hi-hat",
+    "pitch": "F#4",
+    "pattern": "1000"
+  }
+]
